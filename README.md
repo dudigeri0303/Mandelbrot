@@ -1,7 +1,7 @@
 # Mandelbrot
  Mandelbrot set visualization with different textures<br />
 
- <img src="Screenshots/mandelprot.png">
+ <img src="Screenshots/mandelbrot.png" />
 
 How to controll the program:<br />
 -Up and Down arrow: Incrase and decrease the number of maximum iterations.<br />

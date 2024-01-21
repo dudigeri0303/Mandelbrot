@@ -1,11 +1,13 @@
 # Mandelbrot
  Mandelbrot set visualization with different textures<br />
 
+ <img src="Screenshots/mandelprot.png">
+
 How to controll the program:<br />
-Up and Down arrow: Incrase and decrease the number of maximum iterations.<br />
-Keys 1 to 5: Change the texture<br /> 
-Space: Show and hide the information bar at the bottom<br /> 
-Left mouse click: Zoom into the mandelbrot set at the clicked coordinates<br />
+-Up and Down arrow: Incrase and decrease the number of maximum iterations.<br />
+-Keys 1 to 5: Change the texture<br /> 
+-Space: Show and hide the information bar at the bottom<br /> 
+-Left mouse click: Zoom into the mandelbrot set at the clicked coordinates<br />
 
 
 Required libraries:

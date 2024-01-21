@@ -1,7 +1,7 @@
 # Mandelbrot
  Mandelbrot set visualization with different textures<br />
 
-How to controll the program:<br/ >
+How to controll the program:<br />
 Up and Down arrow: Incrase and decrease the number of maximum iterations.<br />
 Keys 1 to 5: Change the texture<br /> 
 Space: Show and hide the information bar at the bottom<br /> 
